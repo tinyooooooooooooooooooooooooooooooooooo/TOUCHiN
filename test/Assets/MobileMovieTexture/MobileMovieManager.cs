@@ -29,7 +29,7 @@ namespace MMT
 
         enum GfxDeviceRenderer
         {
-            kGfxRendererOpenGL = 0,          // OpenGL
+            kGfxRendererOpenGL = 32,          // OpenGL
             kGfxRendererD3D9,                // Direct3D 9
             kGfxRendererD3D11,               // Direct3D 11
             kGfxRendererGCM,                 // Sony PlayStation 3 GCM
