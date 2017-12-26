@@ -18,7 +18,6 @@ C:\Program Files\Git
 
 
 
-
 =================================================
 
 
@@ -46,29 +45,6 @@ Git 和 Subversion的相比
 
 
 =================================================
-
-
-http://www.pcstore.com.tw/explorer/M21342790.htm
-【雄遠科技】4.3吋/門禁感應扣/拷貝機/複製扣/EM/ID/Mifare/加密破解/感應卡拷貝/拷貝器/門禁卡複製/拷貝
-
-2015新款06CD超強繁體EM Mifare 多頻讀寫器 Mifare複製器 IDIC卡複製 扣卡讀寫器IDIC讀寫器。 
-2015款複制器-全新升級 
-IC全加密解碼+支援偵測器 
-ID全晶片+ID全頻段 
-新增EL8265晶片 
-
-一次付清特價 2450 元
-
-
-http://www.pcstore.com.tw/explorer/M21129773.htm
-【雄遠科技】複製/感應卡/拷貝門禁/卡/拷貝專用/可重覆讀寫/拷貝EM卡/板橋
-
-拷貝專用EM感應卡 
-
-可重覆讀寫、無ID號 
-
-建議售價　$25元 
-一次付清特價 25 元 
 
 
 =================================================
@@ -114,13 +90,6 @@ C:\Program Files (x86)\Microsoft Visual Studio 12.0
 
 
 =================================================
-
-sql 2012 
-
-223.27.48.54
-
-sa
-Pb2iRq1yppZp
 
 
 Table:
@@ -237,14 +206,6 @@ SELECT TOP 1000 [UserID]
   where [CreateTime] > '2017-12-21' 
   and [FBName] like 'ken%'
 
-
-
-UserID	UserName	Password	FBID	FBToken	FBName	IGID	IGToken	IGName	CreateTime	State	IsLock	IP	LastLoginTime	Code	InvitationNumber	Platver	Brand	AppVer	Language	Sex	Birthday	Agerange	LoginType	PushToken
-80521	NULL	NULL	1501140749955595		Ken Ho	NULL	NULL	NULL	2017-12-22 15:22:18.497	1	0	59.127.108.17	2017-12-22 15:39:20.363	0193ceca0867d26feaa51bc6817d13d5	SPMFDN7653	Android OS 4.4.2 / API-19 (KVT49L/TW_a501cg-TW_user_2.22.40.54_20151211_96-user-20151211)	asus ASUS_T00J	1.50	NULL	male	04/05/1970	21	1	NULL
-
-
-UserID	UserName	Password	FBID	FBToken	FBName	IGID	IGToken	IGName	CreateTime	State	IsLock	IP	LastLoginTime	Code	InvitationNumber	Platver	Brand	AppVer	Language	Sex	Birthday	Agerange	LoginType	PushToken
-82722	NULL	NULL	10210217232978733		Ken Li	NULL	NULL	NULL	2017-12-23 23:27:41.760	1	0	223.138.57.124	2017-12-23 23:30:26.437	284a60b39ef4c50feaa6202ad95b6674	GPBQII3617	Android OS 5.0.1 / API-21 (LRX21Y/F350K20h.1464244862)	LGE LG-F350K	1.50	NULL	male	09/24/1981	21	1	NULL
 
 
 
